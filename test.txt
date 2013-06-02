@@ -1,0 +1,58 @@
+<div class='custom'>
+<div class='graph' id='graph12'>placeholder</div>
+<div class='images'>
+<h3>Relevant Images</h3>
+<div class='img-polaroid'><a href='http://trove.nla.gov.au/work/173726797'><img src='http://www.nma.gov.au/collections-search/media?image=yes&size=med&irn=57900' alt='christmas'/><p>Christmas card from Betty Archdale to Ruby Monaghan, 1935</p></a></div>
+<div class='img-polaroid'><a href='http://trove.nla.gov.au/work/36893348'><img src='http://bishop.slq.qld.gov.au:80/webclient/DeliveryManager?pid=47874' alt='mail'/><p>Royal Air Mail plane delivering the first mail to Rockhampton, ca. 1935</p></a></div>
+<div class='img-polaroid'><a href='http://trove.nla.gov.au/work/153915387'><img src='http://bishop.slq.qld.gov.au:80/webclient/DeliveryManager?pid=63573' alt='strike'/><p>Group of picketers riding in a car during a strike in 1935</p></a></div>
+<div class='img-polaroid'><a href='http://trove.nla.gov.au/work/28187283'><img src='http://nla.gov.au/nla.pic-vn4654329-t' alt='murder'/><p>Portrait of Patrick Brady convicted murderer in the Shark Arm case, ca 1935 / E.W. Searle</p></a></div>
+</div>
+<div class='articles'>
+<div class='img-polaroid'><a href='http://trove.nla.gov.au/ndp/del/article/15634520'><h5>THE BALKANS. MONTENEGRIN SUCCESS. HEAVY ENEMY LOSSES. LONDON, Dec. 30.</h5><p>The Sydney Morning Herald 1915-12-31</p></a></div>
+<div class='img-polaroid'><a href='http://trove.nla.gov.au/ndp/del/article/15634520'><h5>THE BALKANS. MONTENEGRIN SUCCESS. HEAVY ENEMY LOSSES. LONDON, Dec. 30.</h5><p>The Sydney Morning Herald 1915-12-31</p></a></div>
+<div class='img-polaroid'><a href='http://trove.nla.gov.au/ndp/del/article/15634520'><h5>THE BALKANS. MONTENEGRIN SUCCESS. HEAVY ENEMY LOSSES. LONDON, Dec. 30.</h5><p>The Sydney Morning Herald 1915-12-31</p></a></div>
+<div class='img-polaroid'><a href='http://trove.nla.gov.au/ndp/del/article/15634520'><h5>THE BALKANS. MONTENEGRIN SUCCESS. HEAVY ENEMY LOSSES. LONDON, Dec. 30.</h5><p>The Sydney Morning Herald 1915-12-31</p></a></div>
+<div class='img-polaroid'><a href='http://trove.nla.gov.au/ndp/del/article/15634520'><h5>THE BALKANS. MONTENEGRIN SUCCESS. HEAVY ENEMY LOSSES. LONDON, Dec. 30.</h5><p>The Sydney Morning Herald 1915-12-31</p></a></div>
+</div>
+</div>
+
+
+
+<div class='custom'>
+<div class='graph' id='graph1'>placeholder</div>
+<div class='images'><h3>Relevant Images</h3>
+<div class='img-polaroid'><a href='http://trove.nla.gov.au/work/33027419'><img src='http://nla.gov.au/nla.pic-an23297148-t' alt='soldier'/><p>Armistice to bury [indicated with a white X] Turk with flag of truce - Turkish trenches just at his rear, [the Turk in question is just outside of the photograph, to the left of the soldier standing on the far left, June? 1915] J.P. Campbell</p></a></div>
+<div class='img-polaroid'><a href='http://trove.nla.gov.au/work/36604352'><img src='http://143.119.202.10/_DAMl/image/23/135/a7436001r.jpg' alt='soldier'/><p>War meeting. A public meeting, School of Arts, Wyong, Wednesday, Sept. 1, 1915 8 p.m. To bid farewell to some of our departing soldier boys. Speakers: E.J. Loxton, K.C., J. Carlos, Barrister and Private H.H. Coates. All are invited</p></a></div>
+<div class='img-polaroid'><a href='http://trove.nla.gov.au/work/153915846'><img src='http://bishop.slq.qld.gov.au:80/webclient/DeliveryManager?pid=202153' alt='soldier'/><p>Soldier J. Marsden, 1915</p></a></div>
+<div class='img-polaroid'><a href='http://trove.nla.gov.au/work/36960326'><img src='http://museumvictoria.com.au/collections/ItemImages/153/266/153266_HoverThumb.jpg' alt='wool'/><p>Negative - Woolshed at 'Portland Downs' Station, Isisford District, Queensland, circa 1915</p></a></div>
+</div>
+<div class='articles'><div class='img-polaroid'><a href='http://trove.nla.gov.au/ndp/del/article/17879689'><h5>U.S. FLAG FOR SYDNEY San Francisco's Gift</h5><p>The Sydney Morning Herald 1943-12-31</p></a></div><div class='img-polaroid'><a href='http://trove.nla.gov.au/ndp/del/article/17870076'><h5>CHRISTMAS IN THE JUNGLE Active Service Conditions</h5><p>The Sydney Morning Herald 1943-12-30</p></a></div><div class='img-polaroid'><a href='http://trove.nla.gov.au/ndp/del/article/17879757'><h5>SUPERIOR NAZI NAVAL FORCE ROUTED Two Cruisers Against 11 Destroyers</h5><p>The Sydney Morning Herald 1943-12-31</p></a></div><div class='img-polaroid'><a href='http://trove.nla.gov.au/ndp/del/article/17879723'><h5>'REST FOR FEW WEEKS' Message From Mr. Churchill</h5><p>The Sydney Morning Herald 1943-12-31</p></a></div><div class='img-polaroid'><a href='http://trove.nla.gov.au/ndp/del/article/17872107'><h5>A.L.P.'S EMPIRE SPIRIT Conference In Retrospect MR. CURTIN'S RESOLUTION</h5><p>The Sydney Morning Herald 1943-12-20</p></a></div></div>
+</div>
+
+
+"text":"u.s., army, christmas, enemy, britain, attack, italy, meat, holiday, nazi, raid, russia, japan, peace, churchill, kiev, gloucester, king, a.l.p., hospital",
+                                
+                                                                               
+																			   
+<p>History through News is an application designed to give users an indepth view of a specific time period reconstructed through historical newspaper articles. The idea behind History through News is to extract from historical news 
+articles information that will give the audience an understanding of what life is like during any time period in the past. In todays society, if we want to find out events that our society is interested in, social trends that 
+are popular or foreign affairs that people are concerned about, we can easily find all these information via the internet and social networking websites. This is because many people owns a computer or a smart phone and they can 
+easily voice their concerns by tweeting, posting on forums or update their Faceboook feed.</p>
+
+<p>However, if we want to find similar information such as foreign events that concerns our society or what our society is interested prior to the invention of the computer and the internet, where do we find this information?
+During the pre-computer age, the most dominant form of communication and circulating information is via newspapers and our assumption is that we can find all these information from newspaper headlines. 
+As an experiment, we downloaded about 250,000+ historical (Sydney Morning Herald) newspaper records via the Trove API. We applied Natural Language Processing (NLP) techniques on the newspaper headlines to extract vital information 
+such as events, location, people etc. By performing statistical analysis on these extracted information, we calculated the most frequently used keywords found in headlines and use these keywords to find relevant articles and 
+pictures to help identify what society cares most during that time period.</p>
+
+<p>In our experiment, we found that during 1915-1919, there are alot of articles relating to the army, USA, germany, soldiers, food, invasion etc. From these keywords, it is very clear that during this time period there is a war 
+happening and our society is most concerned with soldiers and food.
+We then fast tracked to another period in the 1924-1928 and in this period we see keywords such as tennis, olympic, football, golf etc. In comparison to the 1915-1919 period, this suggests that there are no war or disaster that
+happened and society focus more on recreational activities such the as the 1924 Olympic games. Finally, we performed the same experiment for the years between 1943-1945, we see the same similar patterns with 1915-1919. During this
+period of time, the keywords from headlines convey a very serious and depressing theme where most keywords are concerned with war, army, raid, battle etc.</p>
+
+<p>From this experiment we found that by analysing newspaper articles we can extract vital information that can help the audience construct what life is like during any specific time period in the past. In addition, from the experiment
+we have created a catalog of newspaper article to keyword mappings which we are more than happy to open source it. These keywords can be added to the existing Trove dataset or can be used as tags for the articles.
+To properly display the contents on this webpage, please view on resolution 1920x1080.</p>
+
+						   

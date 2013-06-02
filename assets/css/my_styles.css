@@ -1,0 +1,56 @@
+.custom {
+	width: 1300px;
+	height:600px;
+	margin: 20px;
+}
+
+.custom .graph {
+	width: 700px;
+	height: 500px;
+	margin:0 20px;
+	float:left;
+}
+
+.custom .images {
+	width: 500px;
+	height: 500px;
+	float:left;
+}
+
+.custom .articles {
+	width: 100%;
+	margin: 0 10px;
+	height: 100px;
+	float:left;
+	text-align:left;
+}
+
+#timeline .custom .articles .img-polaroid {
+	margin: 0 10px;
+	height: 120px;
+	width: 220px;
+	float:left;	
+}
+
+#timeline .custom .articles .img-polaroid  p{	
+	font-size: 12px;
+	line-height: 12px;
+}
+
+#timeline .custom .images .img-polaroid {
+	margin: 5px;
+	height: 100px;
+	width: 95%;
+}
+
+#timeline .custom .images .img-polaroid  img{
+	float: left;
+	display:block;
+	height:100px;
+	width: 75px;
+	margin-right: 10px;
+}
+
+#timeline .custom .images .img-polaroid  p{
+	text-align:left;
+}
